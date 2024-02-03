@@ -1,0 +1,273 @@
+[03февр.2024 20:06:19.056] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.7, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[03февр.2024 20:06:19.059] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.10 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[03февр.2024 20:06:19.607] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/mcserver/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[03февр.2024 20:06:19.977] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\mcserver\libraries\net\minecraftforge\fmlcore\1.19.2-43.3.7\fmlcore-1.19.2-43.3.7.jar is missing mods.toml file
+[03февр.2024 20:06:19.990] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\mcserver\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.3.7\javafmllanguage-1.19.2-43.3.7.jar is missing mods.toml file
+[03февр.2024 20:06:19.991] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\mcserver\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.3.7\lowcodelanguage-1.19.2-43.3.7.jar is missing mods.toml file
+[03февр.2024 20:06:19.993] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\mcserver\libraries\net\minecraftforge\mclanguage\1.19.2-43.3.7\mclanguage-1.19.2-43.3.7.jar is missing mods.toml file
+[03февр.2024 20:06:20.102] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[03февр.2024 20:06:21.541] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03февр.2024 20:06:21.600] [main/ERROR] [mixin/]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
+[03февр.2024 20:06:21.602] [main/ERROR] [mixin/]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
+[03февр.2024 20:06:21.618] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[03февр.2024 20:06:21.713] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[03февр.2024 20:06:21.752] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for corgilib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03февр.2024 20:06:21.755] [main/WARN] [mixin/]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
+[03февр.2024 20:06:21.932] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03февр.2024 20:06:21.971] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03февр.2024 20:06:22.128] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[03февр.2024 20:06:22.150] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03февр.2024 20:06:22.152] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03февр.2024 20:06:22.210] [main/WARN] [mixin/]: Error loading class: com/hollingsworth/arsnouveau/common/items/SpellCrossbow (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.items.SpellCrossbow)
+[03февр.2024 20:06:22.213] [main/WARN] [mixin/]: Error loading class: com/rolfmao/upgradednetherite/content/UpgradedNetheriteCrossbow (java.lang.ClassNotFoundException: com.rolfmao.upgradednetherite.content.UpgradedNetheriteCrossbow)
+[03февр.2024 20:06:22.214] [main/WARN] [mixin/]: Error loading class: com/rolfmao/upgradednetherite_ultimate/content/UpgradedNetheriteCrossbow (java.lang.ClassNotFoundException: com.rolfmao.upgradednetherite_ultimate.content.UpgradedNetheriteCrossbow)
+[03февр.2024 20:06:22.490] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[03февр.2024 20:06:25.962] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03февр.2024 20:06:25.965] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03февр.2024 20:06:26.022] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[03февр.2024 20:06:26.775] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[03февр.2024 20:06:27.181] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[03февр.2024 20:06:27.889] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/EnchantedBookItem
+[03февр.2024 20:06:28.145] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[03февр.2024 20:06:28.145] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[03февр.2024 20:06:28.760] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[03февр.2024 20:06:28.760] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[03февр.2024 20:06:28.786] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.7, for MC 1.19.2 with MCP 20220805.130853
+[03февр.2024 20:06:28.787] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.7 Initialized
+[03февр.2024 20:06:29.146] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.30.
+[03февр.2024 20:06:30.034] [modloading-worker-0/INFO] [IC2Classic/]: Loading Plugin: [name=The-One-Probe-Plugin, version=1.0]
+[03февр.2024 20:06:30.037] [modloading-worker-0/INFO] [IC2Classic/]: Loading Plugin: [name=Mekanism-Plugin, version=1.0]
+[03февр.2024 20:06:30.038] [modloading-worker-0/INFO] [IC2Classic/]: Loading Plugin: [name=JEI-Plugin, version=1.0]
+[03февр.2024 20:06:30.040] [modloading-worker-0/INFO] [IC2Classic/]: Loading Plugin: [name=Curio-Plugin, version=1.0]
+[03февр.2024 20:06:31.119] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[03февр.2024 20:06:31.120] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[03февр.2024 20:06:31.120] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[03февр.2024 20:06:31.616] [main/INFO] [IC2Classic/]: Loading TileEntities
+[03февр.2024 20:06:31.864] [main/INFO] [IC2Classic/]: Loading Blocks
+[03февр.2024 20:06:32.861] [main/INFO] [IC2Classic/]: Loaded Blocks & Tiles
+[03февр.2024 20:06:34.278] [main/INFO] [IC2Classic/]: Loading Fluids
+[03февр.2024 20:06:34.281] [main/INFO] [IC2Classic/]: Loaded Fluids
+[03февр.2024 20:06:34.301] [main/INFO] [IC2Classic/]: Loading Potions
+[03февр.2024 20:06:34.301] [main/INFO] [IC2Classic/]: Loaded Potions
+[03февр.2024 20:06:34.640] [main/INFO] [IC2Classic/]: Loading Entities
+[03февр.2024 20:06:34.647] [main/INFO] [IC2Classic/]: Loaded Entities
+[03февр.2024 20:06:34.854] [main/INFO] [IC2Classic/]: Loading Items
+[03февр.2024 20:06:34.930] [main/INFO] [IC2Classic/]: Loaded Items
+[03февр.2024 20:06:35.020] [main/INFO] [IC2Classic/]: Loading Child Drawings
+[03февр.2024 20:06:35.020] [main/INFO] [IC2Classic/]: Loaded Child Drawings
+[03февр.2024 20:06:35.089] [main/INFO] [IC2Classic/]: Loading Villager Nosises
+[03февр.2024 20:06:35.090] [main/INFO] [IC2Classic/]: Loaded Villager Nosises
+[03февр.2024 20:06:35.092] [main/INFO] [IC2Classic/]: Loading Villager Workstations
+[03февр.2024 20:06:35.092] [main/INFO] [IC2Classic/]: Loaded Villager Workstations
+[03февр.2024 20:06:35.204] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.EnderOrdnanceEntity from class net.poonggi.somebosses.entity.VolcaniumEntity
+[03февр.2024 20:06:35.204] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.EnderOrdnanceEntity from class net.poonggi.somebosses.entity.VolcaniumEntity
+[03февр.2024 20:06:35.205] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.EnderOrdnanceEntity from class net.poonggi.somebosses.entity.VolcaniumEntity
+[03февр.2024 20:06:35.205] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.EnderOrdnanceEntity from class net.poonggi.somebosses.entity.VolcaniumEntity
+[03февр.2024 20:06:35.205] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.FrostMagmaEntity from class net.poonggi.somebosses.entity.HandHeadEntity
+[03февр.2024 20:06:35.207] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.FrostMagmaEntity from class net.poonggi.somebosses.entity.HandHeadEntity
+[03февр.2024 20:06:35.209] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.FrostMagmaEntity from class net.poonggi.somebosses.entity.AncientWizardEntity
+[03февр.2024 20:06:35.209] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.FrostMagmaEntity from class net.poonggi.somebosses.entity.AncientWizardEntity
+[03февр.2024 20:06:35.210] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.NamelessOneEntity from class net.poonggi.somebosses.entity.NamelessOneCloneEntity
+[03февр.2024 20:06:35.210] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.SandGiantEntity from class net.poonggi.somebosses.entity.SkeletonVanguardEntity
+[03февр.2024 20:06:35.210] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.EnderOrdnanceEntity from class net.poonggi.somebosses.entity.RibGolemEntity
+[03февр.2024 20:06:35.211] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.EnderOrdnanceEntity from class net.poonggi.somebosses.entity.RibGolemEntity
+[03февр.2024 20:06:35.211] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.EnderOrdnanceEntity from class net.poonggi.somebosses.entity.RibGolemEntity
+[03февр.2024 20:06:35.211] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.poonggi.somebosses.entity.StoneGuardEntity from class net.poonggi.somebosses.entity.StoneMinionEntity
+[03февр.2024 20:06:35.271] [Thread-0/FATAL] [mcjty.theoneprobe.TheOneProbe/CORE]: theoneprobe config just got changed on the file system!
+[03февр.2024 20:06:35.358] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\mcserver\config\rottencreatures-common.toml is not correct. Correcting
+[03февр.2024 20:06:35.358] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mob Spawns.Immortal Chance was corrected from 0.025 to its default, 0.025. 
+[03февр.2024 20:06:35.401] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
+[03февр.2024 20:06:35.419] [modloading-worker-0/INFO] [IC2Classic/]: CommonSetup
+[03февр.2024 20:06:35.464] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[03февр.2024 20:06:35.475] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[03февр.2024 20:06:35.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03февр.2024 20:06:36.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.7 Target: null
+[03февр.2024 20:06:36.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[03февр.2024 20:06:37.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.1.1 Target: 2.1.1
+[03февр.2024 20:06:37.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03февр.2024 20:06:37.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 43.3.7 Target: null
+[03февр.2024 20:06:37.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.19/changelog.json
+[03февр.2024 20:06:37.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: BETA Current: 1.19.2-9.2.3-167 Target: null
+[03февр.2024 20:06:37.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Starting version check at https://update.maxhenkel.de/forge/pipez
+[03февр.2024 20:06:37.959] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Found status: AHEAD Current: 1.19.2-1.2.6 Target: null
+[03февр.2024 20:06:37.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[03февр.2024 20:06:38.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.10-20 Target: null
+[03февр.2024 20:06:43.486] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03февр.2024 20:06:43.581] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03февр.2024 20:06:43.581] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[03февр.2024 20:06:43.581] [main/INFO] [terrablender/]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[03февр.2024 20:06:43.582] [main/INFO] [terrablender/]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[03февр.2024 20:06:43.582] [main/INFO] [terrablender/]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[03февр.2024 20:06:43.583] [main/INFO] [terrablender/]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[03февр.2024 20:06:43.614] [modloading-worker-0/WARN] [mcp.mobius.waila.plugin.PluginInfo/]: [WTHIT] Plugin net.blay09.mods.waystones.compat.ForgeWTHITWaystonesPlugin is using the default namespace minecraft:waystones
+[03февр.2024 20:06:43.625] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Registering plugin minecraft:waystones at net.blay09.mods.waystones.compat.ForgeWTHITWaystonesPlugin
+[03февр.2024 20:06:43.629] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Registering plugin ae2:wthit at appeng.integration.modules.wthit.WthitModule
+[03февр.2024 20:06:43.633] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaPluginCore
+[03февр.2024 20:06:43.642] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaPluginVanilla
+[03февр.2024 20:06:43.659] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Registering plugin waila:forge at mcp.mobius.waila.plugin.forge.WailaPluginForge
+[03февр.2024 20:06:43.661] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Registering plugin waila:extra at mcp.mobius.waila.plugin.extra.WailaPluginExtra
+[03февр.2024 20:06:43.691] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[03февр.2024 20:06:46.593] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03февр.2024 20:06:46.643] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+oculus (version 1.6.9 -> MISSING)
+Things may not work well.
+[03февр.2024 20:06:49.025] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/mcserver/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23205!/assets/.mcassetsroot' uses unexpected schema
+[03февр.2024 20:06:49.026] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/mcserver/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23205!/data/.mcassetsroot' uses unexpected schema
+[03февр.2024 20:06:49.079] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:oculus
+[03февр.2024 20:06:51.052] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
+[03февр.2024 20:06:51.243] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[03февр.2024 20:06:51.300] [Worker-Main-8/INFO] [IC2Classic/]: Loading Recipes
+[03февр.2024 20:06:52.150] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 66 recipes
+[03февр.2024 20:06:52.203] [main/ERROR] [Apotheosis : Adventure/]: Use of the "rarity" key in affix loot pool entries is deprecated and will be removed in a future release.
+[03февр.2024 20:06:52.204] [main/ERROR] [Apotheosis : Adventure/]: Use of the "rarity" key in affix loot pool entries is deprecated and will be removed in a future release.
+[03февр.2024 20:06:52.206] [main/ERROR] [Apotheosis : Adventure/]: Use of the "rarity" key in affix loot pool entries is deprecated and will be removed in a future release.
+[03февр.2024 20:06:52.591] [main/INFO] [placebo/]: Registered 31 additional loot tables.
+[03февр.2024 20:06:52.698] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4124 advancements
+[03февр.2024 20:06:52.707] [main/INFO] [placebo/]: Registered 27 additional recipes.
+[03февр.2024 20:06:52.752] [main/INFO] [Apotheosis : Enchantment/]: Registered 29 enchanting_stats.
+[03февр.2024 20:06:52.758] [main/INFO] [Apotheosis : Adventure/]: Registered 81 affixes.
+[03февр.2024 20:06:52.765] [main/INFO] [Apotheosis : Adventure/]: Registered 19 gems.
+[03февр.2024 20:06:52.768] [main/INFO] [Apotheosis : Adventure/]: Registered 75 affix_loot_entries.
+[03февр.2024 20:06:52.770] [main/INFO] [Apotheosis : Adventure/]: Registered 16 boss_gear.
+[03февр.2024 20:06:52.773] [main/INFO] [Apotheosis : Adventure/]: Registered 17 bosses.
+[03февр.2024 20:06:52.780] [main/INFO] [Apotheosis : Adventure/]: Registered 8 random_spawners.
+[03февр.2024 20:06:52.780] [main/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
+[03февр.2024 20:06:52.784] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity mythic for category helmetRequired: 3; Provided: 2
+[03февр.2024 20:06:52.784] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity mythic for category bootsRequired: 3; Provided: 2
+[03февр.2024 20:06:52.786] [main/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
+[03февр.2024 20:06:52.791] [main/INFO] [Apotheosis : Village/]: Registered 28 wanderer_trades.
+[03февр.2024 20:06:56.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[03февр.2024 20:06:56.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03февр.2024 20:06:56.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03февр.2024 20:06:56.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03февр.2024 20:06:56.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03февр.2024 20:06:56.103] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[03февр.2024 20:06:56.273] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03февр.2024 20:06:56.414] [Server thread/INFO] [configured/]: Loading server configs...
+[03февр.2024 20:06:56.439] [Server thread/WARN] [potionstudios.byg.BYG/]: "minecraft:none" is not a registered villager profession, skipping trade entry...
+[03февр.2024 20:06:56.442] [Server thread/WARN] [potionstudios.byg.BYG/]: "minecraft:nitwit" is not a registered villager profession, skipping trade entry...
+[03февр.2024 20:06:57.167] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03февр.2024 20:06:57.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03февр.2024 20:06:57.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03февр.2024 20:06:59.183] [Netty Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03февр.2024 20:06:59.904] [Netty Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03февр.2024 20:07:00.180] [Netty Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03февр.2024 20:07:00.466] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03февр.2024 20:07:00.480] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03февр.2024 20:07:00.484] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03февр.2024 20:07:00.486] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03февр.2024 20:07:00.494] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03февр.2024 20:07:00.499] [Worker-Main-10/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03февр.2024 20:07:00.504] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03февр.2024 20:07:00.998] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[03февр.2024 20:07:01.410] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3912 ms
+[03февр.2024 20:07:01.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.147s)! For help, type "help"
+[03февр.2024 20:07:01.438] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03февр.2024 20:07:01.485] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
+[03февр.2024 20:07:01.498] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[03февр.2024 20:07:01.510] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[03февр.2024 20:07:01.575] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 armor_composite_leggings, missing knowledge for {1 leather_leggings=1.0}
+[03февр.2024 20:07:01.575] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 jet_suit_pants, missing knowledge for {1 netherite_space_pants=1.0}
+[03февр.2024 20:07:01.576] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 netherite_space_helmet, missing knowledge for {1 netherite_helmet=1.0}
+[03февр.2024 20:07:01.576] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 armor_composite_boots, missing knowledge for {1 leather_boots=1.0}
+[03февр.2024 20:07:01.576] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 armor_composite_helmet, missing knowledge for {1 leather_helmet=1.0}
+[03февр.2024 20:07:01.576] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 netherite_space_suit, missing knowledge for {1 netherite_chestplate=1.0}
+[03февр.2024 20:07:01.576] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 netherite_space_boots, missing knowledge for {1 netherite_boots=1.0}
+[03февр.2024 20:07:01.576] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 jet_suit_helmet, missing knowledge for {1 netherite_space_helmet=1.0}
+[03февр.2024 20:07:01.576] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 jet_suit, missing knowledge for {1 netherite_space_suit=1.0}
+[03февр.2024 20:07:01.577] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 armor_composite_chest, missing knowledge for {1 leather_chestplate=1.0}
+[03февр.2024 20:07:01.577] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 netherite_space_pants, missing knowledge for {1 netherite_leggings=1.0}
+[03февр.2024 20:07:01.577] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 jet_suit_boots, missing knowledge for {1 netherite_space_boots=1.0}
+[03февр.2024 20:07:01.577] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 radiator, missing knowledge for {1 water_bucket=0.25}
+[03февр.2024 20:07:01.577] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 53 milliseconds
+[03февр.2024 20:07:22.129] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player zarevincom is 72182e65-51aa-41be-8c81-12ffbb8bb5d5
+[03февр.2024 20:07:25.780] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:emerald_uum_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.780] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:glass_fiber_1_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.780] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:hover_tube_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.781] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:glass_fiber_0_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.781] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:teleport_tube_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.781] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_fence_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.781] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_sign_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.782] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_fence_gate_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.782] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:speed_tube_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.782] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:2x_insulated_gold_cable_2_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.782] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:insulated_gold_cable_0_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.782] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:gold_cable_recipe_advancement' in progress file .\world\advancements\72182e65-51aa-41be-8c81-12ffbb8bb5d5.json - it doesn't exist anymore?
+[03февр.2024 20:07:25.784] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f9a8ad5
+[03февр.2024 20:07:25.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zarevincom[/[0:0:0:0:0:0:0:1]:58062] logged in with entity id 70 at (-207.95351729413332, 64.0, 935.7272530057114)
+[03февр.2024 20:07:25.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zarevincom joined the game
+[03февр.2024 20:07:25.959] [Netty Server IO #5/INFO] [immersiveengineering/]: Recipes for potions: apotheosis:strong_fatigue, apotheosis:long_haste, minecraft:strong_turtle_master, minecraft:strong_healing, apotheosis:sundering, minecraft:long_water_breathing, alexsmobs:strong_knockback_resistance, alexsmobs:strong_soulsteal, apotheosis:strong_vitality, rottencreatures:long_freeze, minecraft:night_vision, apotheosis:wither, alexsmobs:long_poison_resistance, minecraft:long_swiftness, alexsmobs:long_lava_vision, minecraft:long_fire_resistance, apotheosis:long_sundering, apotheosis:strong_absorption, minecraft:long_weakness, minecraft:strong_slowness, apotheosis:strong_haste, alexsmobs:speed_iii, minecraft:water, minecraft:long_night_vision, apotheosis:long_knowledge, apotheosis:long_grievous, minecraft:weakness, minecraft:healing, apotheosis:long_vitality, minecraft:strength, minecraft:awkward, minecraft:turtle_master, minecraft:strong_strength, apotheosis:strong_resistance, minecraft:strong_leaping, rottencreatures:freeze, minecraft:strong_swiftness, minecraft:long_poison, minecraft:long_turtle_master, apotheosis:absorption, alexsmobs:long_soulsteal, apotheosis:long_fatigue, rottencreatures:corrupted, minecraft:water_breathing, apotheosis:strong_wither, minecraft:invisibility, apotheosis:strong_sundering, minecraft:long_slow_falling, apotheosis:long_wither, minecraft:fire_resistance, apotheosis:long_absorption, apotheosis:resistance, minecraft:leaping, apotheosis:strong_grievous, minecraft:swiftness, minecraft:slow_falling, minecraft:harming, apotheosis:haste, minecraft:luck, minecraft:regeneration, alexsmobs:lava_vision, alexsmobs:knockback_resistance, alexsmobs:bug_pheromones, minecraft:long_invisibility, apotheosis:fatigue, minecraft:long_leaping, minecraft:slowness, alexsmobs:long_knockback_resistance, apotheosis:knowledge, minecraft:strong_poison, apotheosis:grievous, minecraft:poison, minecraft:strong_regeneration, alexsmobs:long_clinging, alexsmobs:poison_resistance, minecraft:long_strength, apotheosis:long_resistance, alexsmobs:clinging, alexsmobs:long_bug_pheromones, minecraft:long_slowness, rottencreatures:strong_freeze, apotheosis:strong_knowledge, apotheosis:vitality, alexsmobs:soulsteal, minecraft:strong_harming, minecraft:long_regeneration
+[03февр.2024 20:08:10.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zarevincom lost connection: Disconnected
+[03февр.2024 20:08:10.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zarevincom left the game
+[03февр.2024 20:09:57.327] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player IlyaKrav is d9f14cc1-4c7c-48eb-92b7-f0db2db80022
+[03февр.2024 20:10:00.849] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_planks_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.849] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_log_bark_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.849] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:barrel_0_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.850] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubber_sapling_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.850] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:emerald_uum_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.850] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:speed_tube_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.850] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:glass_fiber_1_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.850] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:2x_insulated_gold_cable_2_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.850] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:hover_tube_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.851] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:gold_cable_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.851] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:teleport_tube_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.851] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rare_earth_chunk_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.851] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:insulated_gold_cable_0_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.851] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:directional_tube_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.851] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:iridium_plate_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.851] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:glass_fiber_0_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.852] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_trapdoor_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.852] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_fence_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.852] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_slab_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.852] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_stairs_left_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.852] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_door_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.852] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_sign_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.852] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_pressure_plate_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.853] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_button_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.853] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_stairs_right_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.853] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_boat_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.853] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:rubberwood_fence_gate_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.853] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'ic2:stacking_tube_recipe_advancement' in progress file .\world\advancements\d9f14cc1-4c7c-48eb-92b7-f0db2db80022.json - it doesn't exist anymore?
+[03февр.2024 20:10:00.855] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e98f34f
+[03февр.2024 20:10:00.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IlyaKrav[/26.61.147.4:51214] logged in with entity id 1008 at (259.7524618989994, 93.0, 667.0189168859285)
+[03февр.2024 20:10:00.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlyaKrav joined the game
+[03февр.2024 20:13:19.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlyaKrav has made the advancement [Stone Age]
+[03февр.2024 20:13:30.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlyaKrav has made the advancement [Getting an Upgrade]
+[03февр.2024 20:14:55.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IlyaKrav lost connection: Disconnected
+[03февр.2024 20:14:55.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlyaKrav left the game
+[03февр.2024 20:18:09.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03февр.2024 20:18:09.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03февр.2024 20:18:09.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03февр.2024 20:18:10.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:overworld
+[03февр.2024 20:18:10.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ad_astra:earth_orbit
+[03февр.2024 20:18:10.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ad_astra:mercury_orbit
+[03февр.2024 20:18:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ad_astra:glacio
+[03февр.2024 20:18:10.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ad_astra:moon
+[03февр.2024 20:18:10.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ad_astra:mercury
+[03февр.2024 20:18:10.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ad_astra:mars_orbit
+[03февр.2024 20:18:10.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_end
+[03февр.2024 20:18:10.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ad_astra:venus_orbit
+[03февр.2024 20:18:10.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ad_astra:glacio_orbit
+[03февр.2024 20:18:10.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ad_astra:venus
+[03февр.2024 20:18:10.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ad_astra:mars
+[03февр.2024 20:18:10.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ad_astra:moon_orbit
+[03февр.2024 20:18:10.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/minecraft:the_nether
+[03февр.2024 20:18:10.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Новый мир]'/ae2:spatial_storage
+[03февр.2024 20:18:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03февр.2024 20:18:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[03февр.2024 20:18:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[03февр.2024 20:18:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[03февр.2024 20:18:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[03февр.2024 20:18:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[03февр.2024 20:18:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[03февр.2024 20:18:10.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03февр.2024 20:18:10.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[03февр.2024 20:18:10.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[03февр.2024 20:18:10.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[03февр.2024 20:18:10.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[03февр.2024 20:18:10.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[03февр.2024 20:18:10.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03февр.2024 20:18:10.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[03февр.2024 20:18:10.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03февр.2024 20:18:10.511] [Server thread/INFO] [configured/]: Unloading server configs...
+[03февр.2024 20:18:10.512] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
